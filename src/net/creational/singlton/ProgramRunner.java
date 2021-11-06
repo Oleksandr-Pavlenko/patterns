@@ -1,4 +1,4 @@
-package net.creation.singlton;
+package net.creational.singlton;
 
 public class ProgramRunner {
     public static void main(String[] args) {

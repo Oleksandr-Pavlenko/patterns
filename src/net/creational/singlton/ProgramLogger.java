@@ -1,4 +1,4 @@
-package net.creation.singlton;
+package net.creational.singlton;
 
 public class ProgramLogger {
     private static ProgramLogger programLogger;
